@@ -58,5 +58,8 @@ La ampliación para Power BI usa códigos `DAFEL-BI-*`, `SOL-BI-*` y `ALQ-BI-*`.
 
 La guía del informe, el tema y las medidas DAX están en [PowerBI](PowerBI/README.md).
 
+Las doce consultas ejecutables para SQL Server Management Studio y el archivo
+maestro de demostración están en [Consultas_SQL](Consultas_SQL/README.md).
+
 El modelo editable corregido está en [docs/Modelo_Relacional_Dafel.drawio](docs/Modelo_Relacional_Dafel.drawio). El diccionario técnico real puede extraerse desde SQL Server con [tools/Extraer_Diccionario.sql](tools/Extraer_Diccionario.sql).
 
