@@ -1,0 +1,45 @@
+{
+  "name": "Dafel - Construccion",
+  "dataColors": [
+    "#17324D",
+    "#F2A900",
+    "#1F8A70",
+    "#3C6E9F",
+    "#D95D39",
+    "#7A8A99",
+    "#6B4E9B",
+    "#2E7D32"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#17324D",
+  "tableAccent": "#F2A900",
+  "good": "#2E7D32",
+  "neutral": "#F2A900",
+  "bad": "#C62828",
+  "maximum": "#17324D",
+  "center": "#F2A900",
+  "minimum": "#D9E2EA",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#17324D"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#17324D"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#334E68"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 26,
+      "color": "#17324D"
+    }
+  }
+}
+
